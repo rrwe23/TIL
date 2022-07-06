@@ -2,7 +2,7 @@
 
 2022.07.04~~
 
-![long cat](README.assets/long cat.jpg)
+![long cat](https://user-images.githubusercontent.com/70432152/177501300-cbd47d5c-37c8-48e9-9689-8a3f7da2225b.jpg)
 
 ### 1. 수업 필기
 
