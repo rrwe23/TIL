@@ -1,9 +1,7 @@
 ## 👏멀티캠퍼스 풀스택 수업
 
-2022.07.04~~
-
 ![long cat](https://user-images.githubusercontent.com/70432152/177501300-cbd47d5c-37c8-48e9-9689-8a3f7da2225b.jpg)
-
+2022.07.04~~
 ### 1. 수업 필기
 
 - 1일차 - [0705](https://github.com/rrwe23/TIL/blob/master/%EC%88%98%EC%97%85%20%ED%95%84%EA%B8%B0/0705.md)
