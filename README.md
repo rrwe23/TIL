@@ -2,7 +2,9 @@
 
 2022.07.04~~
 
-![long cat](README.assets/long cat.jpg)
+![long cat](https://github.com/rrwe23/TIL/blob/master/long%20cat.jpg)
+
+
 
 ### 1. 수업 필기
 
