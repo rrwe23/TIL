@@ -1,10 +1,10 @@
 ## 👏멀티캠퍼스 풀스택 수업
 
+
+
+![long cat](https://user-images.githubusercontent.com/70432152/177501300-cbd47d5c-37c8-48e9-9689-8a3f7da2225b.jpg)
+
 2022.07.04~~
-
-![long cat](https://github.com/rrwe23/TIL/blob/master/long%20cat.jpg)
-
-
 
 ### 1. 수업 필기
 
