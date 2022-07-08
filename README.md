@@ -9,7 +9,7 @@
 
 - 1일차 - [0705](https://github.com/rrwe23/TIL/blob/master/%EC%88%98%EC%97%85%20%ED%95%84%EA%B8%B0/0705.md) - 마크다운 소스코드
 - 2일차 - [0706](https://github.com/rrwe23/TIL/blob/master/%EC%88%98%EC%97%85%20%ED%95%84%EA%B8%B0/0706.md) - 깃허브 원격저장소 생성
-- 3일차 - [0707](https://github.com/rrwe23/TIL/blob/master/%EC%88%98%EC%97%85%20%ED%95%84%EA%B8%B0/0707.md) - terminal을 통한 push/pull
+- 3일차 - [0707](https://github.com/rrwe23/TIL/blob/master/%EC%88%98%EC%97%85%20%ED%95%84%EA%B8%B0/0707.md) - terminal을 통한 push/pull. git 명령어
 - 4일차 - [0708](https://github.com/rrwe23/TIL/blob/master/%EC%88%98%EC%97%85%20%ED%95%84%EA%B8%B0/0708.md) - 첫번째 특강, 프로그래밍이란?/ 취업을 위해 해야할 일
 
 ### 2. 풀어본 예제
