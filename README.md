@@ -13,7 +13,7 @@
 | 2    | [0706](https://github.com/rrwe23/TIL/blob/master/%EC%88%98%EC%97%85%20%ED%95%84%EA%B8%B0/0706.md) | 깃허브 원격저장소 생성                              |
 | 3    | [0707](https://github.com/rrwe23/TIL/blob/master/%EC%88%98%EC%97%85%20%ED%95%84%EA%B8%B0/0707.md) | terminal을 통한 push/pull. git 명령어               |
 | 4    | [0708](https://github.com/rrwe23/TIL/blob/master/%EC%88%98%EC%97%85%20%ED%95%84%EA%B8%B0/0708.md) | 첫번째 특강, 프로그래밍이란?/ 취업을 위해 해야할 일 |
-| 5    | [0711 ]()                                                    | 파이썬 기초                                         |
+| 5    | [0711 ](https://github.com/rrwe23/TIL/blob/master/%EC%88%98%EC%97%85%20%ED%95%84%EA%B8%B0/0711.md) | 파이썬 기초                                         |
 | 6    |                                                              |                                                     |
 
 
@@ -35,7 +35,7 @@
 | --------- | ------------------------------------------------------------ |
 | 0705 ~06  | [1일차마크다운](https://github.com/rrwe23/TIL/blob/master/%ED%92%80%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%85%20%EC%9E%90%EB%A3%8C/1%EC%9D%BC%EC%B0%A8%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4.pdf) |
 | 0707      | [3일차_branch_github_flow](https://github.com/rrwe23/TIL/blob/master/%ED%92%80%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%85%20%EC%9E%90%EB%A3%8C/3%EC%9D%BC%EC%B0%A8_branch_github_flow.pdf) |
-| 0711      | [교재_파이썬07.pdf]()                                        |
+| 0711      | [교재_파이썬07.pdf](https://github.com/rrwe23/TIL/blob/master/%ED%92%80%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%85%20%EC%9E%90%EB%A3%8C/%EA%B5%90%EC%9E%AC_%ED%8C%8C%EC%9D%B4%EC%8D%AC01.pdf) |
 |           |                                                              |
 |           |                                                              |
 |           |                                                              |
