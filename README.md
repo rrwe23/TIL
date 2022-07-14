@@ -16,7 +16,7 @@
 | 5    | [0711 ](https://github.com/rrwe23/TIL/blob/master/%EC%88%98%EC%97%85%20%ED%95%84%EA%B8%B0/0711.md) | 파이썬 기초                                         |
 | 6    | [0712](https://github.com/rrwe23/TIL/blob/master/%EC%88%98%EC%97%85%20%ED%95%84%EA%B8%B0/0712.md) | 파이썬 2일차, 제어문, 반복문의 종류와 문법          |
 | 7    | [0713](https://github.com/rrwe23/TIL/blob/master/%EC%88%98%EC%97%85%20%ED%95%84%EA%B8%B0/0713.md) | 파이썬 3일차, 함수의 정의, map()                    |
-|      |                                                              |                                                     |
+| 8    | [0714]()                                                     | 파이썬 4일차, set, dictionary,list                  |
 |      |                                                              |                                                     |
 
 
@@ -30,7 +30,7 @@
 | 07.08 | [Job_research](https://github.com/rrwe23/job-research/blob/master/job-research/research.md) |
 | 07.12 | [python_practice](https://github.com/rrwe23/TIL/tree/master/python_practice) |
 | 07.13 | [python_practice](https://github.com/rrwe23/TIL/tree/master/python_practice) |
-|       |                                                              |
+| 07.14 | [python_practice](https://github.com/rrwe23/TIL/tree/master/python_practice)  13~ 18문제 |
 
 ### 3. 수업 자료
 
@@ -41,7 +41,7 @@
 | 07.11     | [교재_파이썬01.pdf](https://github.com/rrwe23/TIL/blob/master/%ED%92%80%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%85%20%EC%9E%90%EB%A3%8C/%EA%B5%90%EC%9E%AC_%ED%8C%8C%EC%9D%B4%EC%8D%AC01.pdf) |
 | 07.12     | [교재 파이썬02.pdf](https://github.com/rrwe23/TIL/blob/master/%ED%92%80%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%85%20%EC%9E%90%EB%A3%8C/%EA%B5%90%EC%9E%AC_%ED%8C%8C%EC%9D%B4%EC%8D%AC02.pdf) |
 | 07.13     | [교재 파이썬03.pdf](https://github.com/rrwe23/TIL/blob/master/%ED%92%80%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%85%20%EC%9E%90%EB%A3%8C/%EA%B5%90%EC%9E%AC_%ED%8C%8C%EC%9D%B4%EC%8D%AC03.pdf) |
-|           |                                                              |
+| 07.14     | [교재 파이썬04.pdf]()                                        |
 
 ### 4.참고사이트
 
