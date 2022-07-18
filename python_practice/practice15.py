@@ -17,9 +17,23 @@ count = 0
 # print(count)
 
 
-for idx in range(len(word)):              #인덱스로 원하는 숫자 얻는 방법
+# 문제 풀이
 
-    print(idx, word[idx])
+# for문을 다돌았다는 뜻은 한번도 break에 안걸렸다. 즉 a가 없었다.
+
+for idx in range(len(word)):              #인덱스로 원하는 숫자 얻는 방법
+    if word[idx]=='a':
+        print(idx)
+        break
+    else:
+        print(-1)
+# print(idx, word[idx])   
+
+
+# a가 있었냐 없었냐? ===(boolean)
+
+
+ 
 
 
 

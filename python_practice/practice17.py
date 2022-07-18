@@ -21,3 +21,10 @@ for i in word:
 
 print(result)
 
+
+
+# for char in word:
+#     number = ord(char)
+#     number = number - 32
+
+#     print(chr(number))
