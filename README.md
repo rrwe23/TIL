@@ -17,6 +17,8 @@
 | 7   | [0713](https://github.com/rrwe23/TIL/blob/master/%EC%88%98%EC%97%85%20%ED%95%84%EA%B8%B0/0713.md)  | 파이썬 3일차, 함수의 정의, map()          |
 | 8   | [0714](https://github.com/rrwe23/TIL/blob/master/%EC%88%98%EC%97%85%20%ED%95%84%EA%B8%B0/0714.md)  | 파이썬 4일차, set, dictionary,list   |
 | 9   | [0718](https://github.com/rrwe23/TIL/blob/master/%EC%88%98%EC%97%85%20%ED%95%84%EA%B8%B0/0718.md)  | 디버깅, 예외처리                       |
+| 10  | [0719](https://github.com/rrwe23/TIL/blob/master/%EC%88%98%EC%97%85%20%ED%95%84%EA%B8%B0/0719.md)  | 객체 지향 프로그래밍, 메소드                |
+|     |                                                                                                    |                                 |
 
 ### 2. 풀어본 예제
 
@@ -40,6 +42,7 @@
 | 07.13     | [교재 파이썬03.pdf](https://github.com/rrwe23/TIL/blob/master/%ED%92%80%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%85%20%EC%9E%90%EB%A3%8C/%EA%B5%90%EC%9E%AC_%ED%8C%8C%EC%9D%B4%EC%8D%AC03.pdf)   |
 | 07.14     | [교재 파이썬04.pdf](https://github.com/rrwe23/TIL/blob/master/%ED%92%80%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%85%20%EC%9E%90%EB%A3%8C/%EA%B5%90%EC%9E%AC_%ED%8C%8C%EC%9D%B4%EC%8D%AC04.pdf)   |
 | 07.18     | [교재 파이썬05.pdf](https://github.com/rrwe23/TIL/blob/master/%ED%92%80%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%85%20%EC%9E%90%EB%A3%8C/%EA%B5%90%EC%9E%AC_%ED%8C%8C%EC%9D%B4%EC%8D%AC05.pdf)   |
+| 07.19     | [교재 파이썬06.pdf](https://github.com/rrwe23/TIL/blob/master/%ED%92%80%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%85%20%EC%9E%90%EB%A3%8C/%EA%B5%90%EC%9E%AC_%ED%8C%8C%EC%9D%B4%EC%8D%AC06.pdf)   |
 
 ### 4.참고사이트
 
